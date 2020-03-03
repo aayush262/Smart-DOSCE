@@ -9,15 +9,6 @@ DOCSE General Purpose Application
 ![Contact](/docs/screenshots/contact.png#3 "Contact")
 ![Result](/docs/screenshots/result.png#4 "Result")
 
-# Support
-
-I made it for Kathmandu University. If you like my work why not star it ;)
-
-Use it as you like according to MIT licence. For setup please use following url as a API which is built with Laravel, Vue and Tabler as UI. If you find using it consider donation.
-
-```
-https://github.com/shirshak786/smart-docse-api
-```
 
 # Technologies Used
 Various open source projects are used. We also have api built in for fetching various data. The main technology used are given below.
@@ -89,10 +80,5 @@ npm test
 npm run lint
 
 
-Now setup api server using this link https://github.com/shirshak786/smart-docse-api
-```
 
-
-# Paid Intallation
-If you want paid solution I can offer installation of api on digital ocean and setup application for you. Please contact me directly at shirshak55@gmail.com
 
